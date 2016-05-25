@@ -1,0 +1,19 @@
+{
+  "name": "node-activator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yontih/node-activator.git"
+  },
+  "author": "Ido Schachter <ido.schachter@ironsrc.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yontih/node-activator/issues"
+  },
+  "homepage": "https://github.com/Yontih/node-activator#readme"
+}
