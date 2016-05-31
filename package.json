@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Yontih/node-activator.git"
   },
-  "author": "Ido Schachter <ido.schachter@ironsrc.com>",
-  "license": "ISC",
+  "author": "Yonatan Hengli | Ido Schachter",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Yontih/node-activator/issues"
   },
-  "homepage": "https://github.com/Yontih/node-activator#readme"
+  "homepage": "https://github.com/Yontih/node-activator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
 }
